@@ -1,6 +1,7 @@
 # Site for the Mood
 
-[TODO. There will be project description]
+It's simple site than show random quotes.
+[Funny quotes](xdass.github.io/20_mood/)
 
 # Project Goals
 

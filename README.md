@@ -1,7 +1,7 @@
 # Site for the Mood
 
 It's simple site than show random quotes.
-[Funny quotes](xdass.github.io/20_mood/)
+[Funny quotes](https://xdass.github.io/20_mood/)
 
 # Project Goals
 

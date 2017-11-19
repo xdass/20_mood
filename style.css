@@ -1,0 +1,17 @@
+body {
+  color: #7b442f;
+}
+
+.random_quote {
+  background-color: #81b7e2bf;
+  width: fit-content;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.signature {
+  margin-top: 10px;
+  display: block;
+  font-style: italic;
+}

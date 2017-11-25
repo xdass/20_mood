@@ -1,5 +1,8 @@
 body {
-  color: #7b442f;
+  color: #fbf9f9;;
+  background-image: url('images/bg.jpg');
+  font-family: Lobster;
+  font-size: 28px;
 }
 
 .random_quote {
